@@ -23,3 +23,6 @@ Hey there! I'm Oberon Berlage.
 <h2>Skills</h2>
 
 <u>Software Engineering</u> I write code in several languages, and currently use <b>Python</b>, <b>TypeScript</b>, <b>JavaScript</b> and <b>PHP</b> on a day-to-day basis. I have some experience with <b>Java</b> and <b>Go</b>. I've used webdevelopment frameworks like <i>Laravel</i>, <i>React</i>, and <i>Firebase</i>. I'm comfortable using relational databases such as <b>MySQL</b> and <b>PostgreSQL</b> and have some experience with non-relational databases such as <b>ElasticSearch</b>, <b>Firestore</b> and <b>MongoDB</b>. I know my way around on the <b>command-line</b> and never start a project without using <b>git</b>.
+
+<u>Data Science</u> 
+I can <b>translate business problems</b> into data science problems and propose methods based on <b>scientific literature</b>. I enjoy <b>ETL-processes</b> and doing <b>exploratory data analysis</b>. I've worked on a bunch of <b>machine learning & deep learning</b> projects both inside & outside of university. I have some experience with <b>Spark</b> & <b>Hadoop</b>, but mostly get things done in <b>Python</b> using libraries llike <b>Pandas, Numpy, Sklearn, Matplotlib, Keras,</b> etc.
